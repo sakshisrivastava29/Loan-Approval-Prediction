@@ -9,7 +9,7 @@ Results Display: After submission, the prediction result is displayed on the sam
 
 Tech Stack :- 
 Backend: Python, Flask
-Frontend: HTML, CSS, JavaScript 
+Frontend: Streamlit
 Machine Learning Model: Scikit-learn
 Deployment: Flask
 
